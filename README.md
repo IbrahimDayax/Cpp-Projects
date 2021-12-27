@@ -1,2 +1,2 @@
 # Cpp-Projects
-repository for all my c++ projects
+repository for some of my c++ projects
