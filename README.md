@@ -1,3 +1,3 @@
 #cpp
 
-repository for some of my c++ projects
+This repository contains some of my c++ code and projects
