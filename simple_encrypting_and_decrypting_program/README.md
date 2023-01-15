@@ -1,10 +1,12 @@
 # Secure Encryption and Decryption App
 
 This is a simple command-line application that allows you to encrypt and decrypt messages using a custom character set and a key.
-Getting Started
+
+## Getting Started
 
 To use the app, simply clone or download the repository, and run the program in your C++ compiler.
-Prerequisites
+
+## Prerequisites
 
     C++ compiler (e.g. GCC, Visual Studio)
 
