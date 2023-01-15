@@ -29,7 +29,7 @@ Built With
 
 ## Authors
 
-    Ibrahim Dayah
+    Ibrahim Dayah Abdullahi
 
 ## License
 
